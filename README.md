@@ -1,8 +1,8 @@
 # Document Studio
 
-**Slide decks, reports, models, and templates — every business document, done right.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**Consultants, analysts, operators: every business document, polished and decision-ready.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A complete toolkit for producing polished business documents. Covers persuasive slide decks, auditable spreadsheet models, long-form reports, precise data tables, tight one-pagers, and reusable team templates. Built for consultants, analysts, and operators who care about the quality of what they ship.
+Reach for this when the quality of what you ship matters — a board deck, a model someone else will audit, a report a busy reader navigates in two minutes, a one-pager that lands the ask. Each skill enforces the structure, hierarchy, and formatting discipline that separates a document people trust from one they second-guess, so you spend your time on the argument, not the formatting.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
