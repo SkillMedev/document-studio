@@ -9,7 +9,7 @@ Reach for this when the quality of what you ship matters — a board deck, a mod
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/document-studio](https://skillme.dev/pack/document-studio) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/document-studio`
+- **With the skills CLI:** `npx skills add SkillMedev/document-studio`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
