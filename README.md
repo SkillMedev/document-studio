@@ -1,16 +1,17 @@
 # Document Studio
 
-**Consultants, analysts, operators: every business document, polished and decision-ready.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**Consultants, analysts, operators: every business document, polished and decision-ready.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-document-studio).
 
 Reach for this when the quality of what you ship matters - a board deck, a model someone else will audit, a report a busy reader navigates in two minutes, a one-pager that lands the ask. Each skill enforces the structure, hierarchy, and formatting discipline that separates a document people trust from one they second-guess, so you spend your time on the argument, not the formatting.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/document-studio](https://skillme.dev/pack/document-studio) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/document-studio?utm_source=github&utm_medium=readme&utm_campaign=pack-document-studio) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add slide-deck-builder spreadsheet-model-builder formatted-report-writer data-table-design one-pager-designer document-template-system executive-summary --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/document-studio`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -25,4 +26,4 @@ Reach for this when the quality of what you ship matters - a board deck, a model
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-document-studio).
